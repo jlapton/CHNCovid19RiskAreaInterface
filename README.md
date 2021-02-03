@@ -1,0 +1,2 @@
+# CHNCovid19RiskAreaInterface
+获取gov.cn网页上的最新新冠病毒疫情风险区域列表接口内容
