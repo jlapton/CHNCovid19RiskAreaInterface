@@ -1,4 +1,4 @@
-console.log('bye vovid-19');
+console.log('bye covid-19');
 
 var CryptoJS = require("crypto-js");
 var SHA256 = require("crypto-js/sha256");
